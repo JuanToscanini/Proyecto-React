@@ -1,0 +1,92 @@
+.cardProductos {
+    margin: auto;
+    align-items:center;
+    justify-content: center;
+    height: 90vh;
+}
+
+.contenedor{
+    justify-content: center;
+}
+
+.cardProducto {
+    margin: 4px;
+    margin-bottom: 0px;
+    background-color: hsl(0, 0%, 97%);
+}
+
+.botonPrincipalNavBar{
+    background-color:transparent;
+    border: none;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.botonPrincipalNavBar:hover {
+    color: rgb(0, 166, 255);
+}
+
+.nav-link {
+    color: white;
+}
+
+.text-decoration {
+    text-decoration: none;
+    color: white;
+}
+
+.numero {
+    color:white;
+    position: relative;
+    right:20%;
+    margin-top: 2px;
+}
+
+.brandName{
+    text-decoration: none;
+    color: white;
+}
+
+.darkMode{
+    background-color: black;
+    color: gainsboro;
+}
+
+.cardBodyDark {
+    background-color: hsl(0, 2%, 16%);
+    text-align: center;
+}
+
+.card {
+    padding: 0px;
+    text-align: center;
+}
+
+.card-body{
+    margin: 0px;
+}
+
+.itemDetail {
+    margin-top: 200px;
+}
+
+nav {
+    height: 60px;
+}
+
+.cartContainer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.btn {
+    margin: 10px;
+}
+
+.imagenCarrito {
+    justify-content: center;
+}
+
+.card-text-carrito{
+    margin: 2px;
+}
